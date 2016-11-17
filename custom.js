@@ -7,7 +7,7 @@
 function scrollTotop(selector){
 		$('html, body').animate({
 			scrollTop: $(selector).offset().top
-		}, 1000);
+		}, 1000)
 }
 
 
