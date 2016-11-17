@@ -1,3 +1,3 @@
 Waqar ertertertetrert
 
-This code by waqar
+This code by memon
